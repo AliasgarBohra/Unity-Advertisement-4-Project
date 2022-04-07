@@ -2177,7 +2177,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'ADVERTISEMENT 4.0
+  m_Text: 'ADVERTISEMENT 4.1.0 Project
 
     Coded and Designed by Brainyplanet'
 --- !u!222 &1328308137
@@ -2231,17 +2231,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a41aadc85557dca4c8e8722f02aecf5c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _testMode: 1
   _androidGameId: 4504759
   _iOSGameId: 4504758
-  _testMode: 1
   _IandroidAdUnitId: Interstitial_Android
   _IiOsAdUnitId: Interstitial_iOS
   _loadBannerButton: {fileID: 1561276346}
   _showBannerButton: {fileID: 1944741336}
   _hideBannerButton: {fileID: 1485540089}
-  _bannerPosition: 1
   _BandroidAdUnitId: Banner_Android
   _BiOsAdUnitId: Banner_iOS
+  _bannerPosition: 1
   _showAdButton: {fileID: 736695875}
   _androidAdUnitId: Rewarded_Android
   _iOSAdUnitId: Rewarded_iOS
